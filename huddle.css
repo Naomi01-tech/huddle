@@ -1,0 +1,91 @@
+header{
+    background-image: url(bg-hero-desktop.svg);
+
+}
+.try{
+    color: green;
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 750px;
+}
+.free{
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    color: white;
+    background-color: deeppink;
+}
+.line{
+    display: flex;
+}
+.text{
+    flex: 2;
+}
+.mock{
+    flex: 2;
+}
+.moc{
+    width: 530px;
+    height: 500px;
+    margin-left: 100px;
+}
+.first{
+    display: flex;
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid black;
+    width: 800px;
+    height: 400px;
+    margin-left: 200px;
+}
+.tx{
+    flex: 2;
+}
+.pic{
+    flex: 2;
+}
+.grow{
+    width: 400px;
+    height: 400px;
+}
+.flow{
+    width: 400px;
+    height: 400px;
+}
+.last{
+    width: 200px;
+    height: 50px;
+    margin-left: 200px;
+    border-radius: 20px;
+    color: white;
+    background-color: deeppink;
+}
+.ready{
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid black;
+    width: 600px;
+    height: 200px;
+    margin-left: 300px;
+}
+.foot{
+    background-color: green;
+    display: flex;
+}
+.container{
+    flex: 1;
+}
+.contact{
+display: inline-block;
+}
+.email{
+display: inline-block;
+}
+.ftn{
+flex: 1;
+}
+.di{
+flex: 1;
+}
